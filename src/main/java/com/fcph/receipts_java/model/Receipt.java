@@ -19,6 +19,6 @@ public class Receipt {
     private String purchaseTime;
     private String total;
     private Integer points;
-    private List<ReceiptItem> Items;
+    private List<ReceiptItem> items;
 
 }
