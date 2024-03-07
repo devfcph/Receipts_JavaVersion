@@ -10,4 +10,7 @@ public class ReceiptConstants {
     public static final Double ONEQUARTER = 0.25;
     public static final Double ONEFIFTH = 0.2;
 
+    public static final String RECEIPT_NOT_FOUND = "No receipt found for that id";
+    public static final String NOT_DATA = "Empty data";
+
 }
