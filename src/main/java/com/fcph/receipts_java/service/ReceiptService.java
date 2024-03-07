@@ -6,10 +6,12 @@ import com.fcph.receipts_java.model.Receipt;
 import com.fcph.receipts_java.model.response.ReceiptId;
 import com.fcph.receipts_java.service.impl.IReceiptService;
 import com.fcph.receipts_java.utils.ReceiptRules;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.UUID;
 
+@Service
 public class ReceiptService implements IReceiptService {
 
     /**
