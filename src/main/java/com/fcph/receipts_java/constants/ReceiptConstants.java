@@ -12,5 +12,6 @@ public class ReceiptConstants {
 
     public static final String RECEIPT_NOT_FOUND = "No receipt found for that id";
     public static final String NOT_DATA = "Empty data";
+    public static final String API= "api/v1/receipts";
 
 }
